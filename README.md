@@ -1,4 +1,4 @@
-# CYKAlgorithm
+# CYKAlgorithm (Name: Yuxiao Wu)
 1. Eingabe lesen:
    a. Verwendet 'Scanner', um die EIngabe von der Standard-Eingabe zu lesen.
    b. Liest die Anzahl der Nichtterminale, Terminale, regeln und Wörter ein.
